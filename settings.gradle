@@ -1,0 +1,1 @@
+include ':app', ':allowtaskreparenting', ':cleartaskonlaunch', ':finishontasklaunch', ':autoremovefromrecents'
